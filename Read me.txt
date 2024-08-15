@@ -1,0 +1,1 @@
+Pneumonia detection using deep learning with VGG16 involves cleaning the data, training the model, testing it, and performing validation. We created a front end using Flask. Additionally, we applied data augmentation techniques and performed fine-tuning
