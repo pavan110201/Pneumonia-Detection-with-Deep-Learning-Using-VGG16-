@@ -1,0 +1,1 @@
+This project implements a deep learning pipeline to detect pneumonia from chest X-ray images using the VGG16 architecture. The solution includes data cleaning, augmentation, model training, testing, validation, and a user-friendly Flask-based web front end. We also leverage transfer learning and fine-tuning techniques to improve model accuracy.
